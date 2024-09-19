@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+button{
+    width: 400px;
+    box-shadow: 0 3px 5px gray;
+}
